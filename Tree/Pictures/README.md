@@ -23,4 +23,4 @@
 <img src="./2.png">
 
 ## Исходный код
-Исходный код представлен в репозитории: https://github.com/Karrton/Creative-tasks/tree/main/Graph/Source
+Исходный код представлен в репозитории: https://github.com/Karrton/Creative-tasks/tree/main/Tree/Source
