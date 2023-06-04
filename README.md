@@ -2,7 +2,7 @@
 ## Отчёты
 - Отчёт по задаче коммивояжера:
 - Отчёт по бинарным деревьям:
-- Отчёт по АРМ:
+- Отчёт по АРМ: [https://github.com/Karrton/Creative-tasks/blob/main/EQ/Source/README.md](https://github.com/Karrton/Creative-tasks/blob/main/EQ/Source/README.md)
 ## Видео отчёт
 YouTube: https://youtu.be/MOZ47426eUI 
 ## Разработчики 
